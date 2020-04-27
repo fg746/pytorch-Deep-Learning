@@ -90,11 +90,6 @@ chapters:
     sections:
       - path: en/week10/10-1.md
       - path: en/week10/10-2.md
-  - path:
-    sections:
-      - path: en/week11/11-1.md
-      - path: en/week11/11-2.md
-      - path: en/week11/11-3.md
 #epilogues:
 #  - path: chapters/end.md
 
@@ -154,7 +149,6 @@ ko:
         - path: ko/week05/05-1.md
         - path: ko/week05/05-2.md
         - path: ko/week05/05-3.md
-    - path: ko/week06/06.md
 
 ################################### Spanish ####################################
 es:
